@@ -105,16 +105,18 @@ Output Waveform
 Tabulation
 
 
+![fm](https://github.com/user-attachments/assets/350bb9d3-db82-41ea-9e3a-1891791d11eb)
+
 
 Calculation
 
+![FMCAL](https://github.com/user-attachments/assets/2383d627-bc83-4dc9-b3bb-34d5b23b44c2)
 
+Frequency Deviation Practical = 2578.05
 
-Frequency Deviation Practical = 2440
+Modulation Index Practical	= 5.73
 
-Modulation Index Practical	= 5.46
-
-Modulation Index Theoretical	= 5.5
+Modulation Index Theoretical	= 5.7
 
 
 
