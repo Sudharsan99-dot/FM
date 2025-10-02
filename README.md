@@ -105,12 +105,14 @@ Output Waveform
 Tabulation
 
 
-![fm](https://github.com/user-attachments/assets/350bb9d3-db82-41ea-9e3a-1891791d11eb)
+![fm](https://github.com/user-attachments/assets/a010a87a-cff3-4af0-b4f9-fed8d5e4c21c)
+
 
 
 Calculation
 
-![FMCAL](https://github.com/user-attachments/assets/2383d627-bc83-4dc9-b3bb-34d5b23b44c2)
+![fmcal](https://github.com/user-attachments/assets/0db853e2-1da6-4b27-82d5-540dd50cb206)
+
 
 Frequency Deviation Practical = 2578.05
 
