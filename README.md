@@ -65,7 +65,7 @@ MODEL GRAPH:
 
 
 Program
-
+```scilab
 Am=5.6;
 
 fm=445;
@@ -97,7 +97,7 @@ s=Ac.*cos((2*3.14*fc*t)+(B*sin(2*3.14*fm*t)));
 subplot(3,1,3);
 
 plot(t,s);
-
+```
 Output Waveform
 
 <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/6f6644c5-c0a5-4d4d-a055-4b7b3f796120" />
